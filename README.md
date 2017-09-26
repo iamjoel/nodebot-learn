@@ -1,2 +1,5 @@
 # nodebot-learn
-use Node.js control Arduino
+Use Node.js control Arduino。
+
+## 概念介绍
+### Arduino
